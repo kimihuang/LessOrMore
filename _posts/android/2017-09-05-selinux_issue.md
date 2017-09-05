@@ -33,7 +33,7 @@ tag: selinux
 简化方法:
 
 1. 提取所有的avc LOG.   如 adb shell "cat /proc/kmsg | grepavc" > avc_log.txt
-1. 使用 **audit2allow** tool 直接生成policy. audit2allow -i avc_log.txt  即可自动输出生成的policy
+1. 使用 **audit2allow** tool 直接生成policy. audit2allow -i avc_log.txt  即可自动输出生成的policy，audit2allow这个应用程序的路径在**/external/selinux/policycoreutils/audit2allow**
 1. 将对应的policy 添加到selinux policy 规则中，对应MTK Solution, 您可以将它们添加在KK: mediatek/custom/common/sepolicy, L:device/mediatek/common/sepolicy 下面，如
 
 allow zygoteresource_cache_data_file:dir rw_dir_perms;
