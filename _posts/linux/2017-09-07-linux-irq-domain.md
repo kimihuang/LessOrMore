@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  linux driver
+title:  linux gpio子系统  中断子系统
 date:   2017-09-07 10:08:00 +0800
 categories: linux
 tag: gpio子系统 中断子系统
@@ -9,7 +9,7 @@ tag: gpio子系统 中断子系统
 * content
 {:toc}
 
-**linux kernel gpio子系统系列文件**
+# linux kernel gpio子系统系列文件
 
 [linux内核中的GPIO系统之（1）：软件框架](http://www.wowotech.net/gpio_subsystem/io-port-control.html/comment-page-2)
 
@@ -22,7 +22,7 @@ tag: gpio子系统 中断子系统
 [linux内核中的GPIO系统之（5）：gpio subsysem和pinctrl subsystem之间的耦合](http://www.wowotech.net/gpio_subsystem/pinctrl-and-gpio.html)
 
 
-**linux kernel 中断子系统系列文件**
+# linux kernel 中断子系统系列文件
 
 [Linux kernel的中断子系统之（一）：综述](http://www.wowotech.net/irq_subsystem/interrupt_subsystem_architecture.html)
 
