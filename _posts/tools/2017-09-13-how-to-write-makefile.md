@@ -2,7 +2,7 @@
 layout: post
 title:  跟我一起写Makefile
 date:   2017-09-07 10:08:00 +0800
-categories: Makefile
+categories: tools
 tag: 跟我一起写Makefile
 ---
 
@@ -14,4 +14,3 @@ tag: 跟我一起写Makefile
 [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/)
 
 [跟我一起写Makefile pfd](https://seisman.github.io/how-to-write-makefile/Makefile.pdf)
-<https://github.com/kimihuang/LessOrMore/blob/master/_layouts/default.html>
