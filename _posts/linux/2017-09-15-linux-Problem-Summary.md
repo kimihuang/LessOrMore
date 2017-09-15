@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  linux 问题总结
-date:   2017-09-015 10:08:00 +0800
+date:   2017-09-15 10:08:00 +0800
 categories: linux
 tag: linux 问题总结
 ---
