@@ -10,3 +10,5 @@ tag: mardkdown 语法
 {:toc}
 
 [mardown 语法](http://blog.csdn.net/witnessai1/article/details/52551362)
+
+[markdown 完整语法](http://blog.leanote.com/post/freewalk/Markdown-%E8%AF%AD%E6%B3%95%E6%89%8B%E5%86%8C#title-29)
