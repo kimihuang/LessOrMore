@@ -16,3 +16,7 @@ tag: arm 汇编指令集总结
 [ARM 协处理器指令详解](http://blog.csdn.net/gameit/article/details/13169405)
 
 [ARM 官网信息中心](http://infocenter.arm.com/help/index.jsp)
+
+[灵活使用ARM汇编的WEAK关键字](http://blog.csdn.net/norains/article/details/5954459)
+
+[ARM CP15协处理器说明](http://blog.csdn.net/skyflying2012/article/details/25823967)
